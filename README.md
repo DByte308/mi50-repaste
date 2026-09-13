@@ -34,17 +34,17 @@ You will need
 
 Thermal Paste. Do not use Kryonaut! Kryonaut is made for Overclocking in Sub Zero and dries out quickly! use something like Thermalgrizzly Duronaut or Artic MX-7
 
-Thermal Pads 2mm ## thicc
+Thermal Pads 2mm thick.
 
 <!-- Caption / description for photo 2 -->
 
-## Photo 3
+## Photo 1
 
 ![20260827_195711](images/20260827_195711.jpg)
 
 <!-- Caption / description for photo 3 -->
 
-## Photo 4
+## Photo 2
 
 ![20260827_200709](images/20260827_200709.jpg)
 
