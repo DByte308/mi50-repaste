@@ -30,7 +30,7 @@ Big thanks to **MattRX8** ([github.com/MattRX8](https://github.com/MattRX8)) for
 
 ## What you'll need
 
-- **Thermal paste.** Don't use Thermal Grizzly Kryonaut, it's made for sub-zero overclocking and dries out quickly. Instead, use something like Thermal Grizzly Duronaut or Arctic MX-7.
+- **Thermal paste.** Don't use Thermal Grizzly Kryonaut, it's made for sub-zero overclocking and dries out quickly. Use a thick paste like **Arctic MX-7** instead. **Important:** the HBM memory and the core don't sit flat on these cards, so you need a thick thermal interface. Best is a phase-change pad like **PTM7950** if you can get one, otherwise you can see hotspot temps of about +40 °C above the median.
 - **Thermal pads, 2 mm thick.**
 
 ## Photo 1: old paste, no thermal pads
