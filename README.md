@@ -1,16 +1,16 @@
 # Repasting and replacing thermal pads on an AMD MI50
 
-<!-- Write your intro here. Example: notes on repasting the GPU and swapping the thermal pads on a used MI50 (Vega 20 / gfx906), with photos of the teardown and the pads used. -->
+Notes on repasting the GPU and swapping the thermal pads on a used MI50 (Vega 20 / gfx906, 32 GiB), with photos of the teardown. The card is fitted with a 3D-printed shroud that takes standard blower fans.
 
-## Repasted GPU with @MattRX8 3d printed shroud for blower fans. 
+## The shroud
 
-You will need blower fans for this mod. 
+Repasted the GPU and fitted a 3D-printed shroud by **@MattRX8** for blower fans. You'll need blower fans for this mod.
 
 **Product:** BASA0725R2U
 
 | Field | Value |
 |---|---|
-| Type | 4-pin (4-poliger) graphics card fan |
+| Type | 4-pin graphics card fan |
 | Part no. | BASA0725R2U |
 | Voltage | DC 12 V |
 | Current | 1.20 A (~14.4 W) |
@@ -18,35 +18,19 @@ You will need blower fans for this mod.
 
 Example: https://a.aliexpress.com/_EHJyd4i
 
-
 ![20260827_192248](images/20260827_192248.jpg)
 
-<!-- Caption / description for photo 1 -->
+## What you'll need
 
-## Needed
-You will need
+- **Thermal paste.** Don't use Thermal Grizzly Kryonaut — it's made for sub-zero overclocking and dries out quickly. Instead, use something like Thermal Grizzly Duronaut or Arctic MX-7.
+- **Thermal pads, 2 mm thick.**
 
-Thermal Paste. Do not use Kryonaut! Kryonaut is made for Overclocking in Sub Zero and dries out quickly! use something like Thermalgrizzly Duronaut or Artic MX-7
-
-Thermal Pads 2mm thick.
-
-<!-- Caption / description for photo 2 -->
-
-## Photo 1 Old paste, no thermal pads
+## Photo 1: old paste, no thermal pads
 
 ![20260827_195711](images/20260827_195711.jpg)
 
-<!-- Caption / description for photo 3 -->
+## Photo 2: repasted, with thermal pads added
 
-## Photo 2 repasted with thermal pads added. You wont need more. 
+You won't need more than this.
 
 ![20260827_200709](images/20260827_200709.jpg)
-
-<!-- Caption / description for photo 4 -->
-
-<!--
-Notes:
-- The 4 photos are in the /images folder and embedded above.
-- Edit this file on GitHub (or locally) and replace each placeholder comment with your text.
-- You can reorder, remove, or add images.
--->
