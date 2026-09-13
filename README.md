@@ -6,23 +6,17 @@
 
 You will need blower fans for this mod. 
 
- Product: BASA0725R2U                                                                                               
-                                                                                                                    
- ┌──────────────────────────┬───────────────────────────────────────────────┐                                       
- │ Field                    │ Value                                         │                                       
- ├──────────────────────────┼───────────────────────────────────────────────┤                                       
- │ Type                     │ 4-pin (4-poliger) graphics card fan           │                                       
- ├──────────────────────────┼───────────────────────────────────────────────┤                                       
- │ Part no.                 │ BASA0725R2U                                   │                                       
- ├──────────────────────────┼───────────────────────────────────────────────┤                                       
- │ Voltage                  │ DC 12V                                        │                                       
- ├──────────────────────────┼───────────────────────────────────────────────┤                                       
- │ Current                  │ 1.20 A (~14.4 W)                              │                                       
- ├──────────────────────────┼───────────────────────────────────────────────┤                                       
- │ Marketed compatible with │ AMD Radeon HD 5850, HD 6870, HD 6950, HD 6970 │                                       
- └──────────────────────────┴───────────────────────────────────────────────┘
+**Product:** BASA0725R2U
 
- Example: https://a.aliexpress.com/_EHJyd4i
+| Field | Value |
+|---|---|
+| Type | 4-pin (4-poliger) graphics card fan |
+| Part no. | BASA0725R2U |
+| Voltage | DC 12 V |
+| Current | 1.20 A (~14.4 W) |
+| Compatible with | AMD Radeon HD 5850, HD 6870, HD 6950, HD 6970 |
+
+Example: https://a.aliexpress.com/_EHJyd4i
 
 
 ![20260827_192248](images/20260827_192248.jpg)
