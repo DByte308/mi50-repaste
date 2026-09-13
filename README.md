@@ -20,6 +20,10 @@ Example: https://a.aliexpress.com/_EHJyd4i
 
 ![20260827_192248](images/20260827_192248.jpg)
 
+## Thank you
+
+Big thanks to **MattRX8** ([github.com/MattRX8](https://github.com/MattRX8)) for the 3D-printed shroud. Without his work this build wouldn't have come together.
+
 ## What you'll need
 
 - **Thermal paste.** Don't use Thermal Grizzly Kryonaut, it's made for sub-zero overclocking and dries out quickly. Instead, use something like Thermal Grizzly Duronaut or Arctic MX-7.
