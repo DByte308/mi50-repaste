@@ -38,13 +38,13 @@ Thermal Pads 2mm thick.
 
 <!-- Caption / description for photo 2 -->
 
-## Photo 1
+## Photo 1 Old paste, no thermal pads
 
 ![20260827_195711](images/20260827_195711.jpg)
 
 <!-- Caption / description for photo 3 -->
 
-## Photo 2
+## Photo 2 repasted with thermal pads added. You wont need more. 
 
 ![20260827_200709](images/20260827_200709.jpg)
 
