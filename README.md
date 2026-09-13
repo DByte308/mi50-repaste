@@ -29,9 +29,12 @@ You will need blower fans for this mod.
 
 <!-- Caption / description for photo 1 -->
 
-## Photo 2
+## Needed
+You will need
 
-![20260827_195303](images/20260827_195303.jpg)
+Thermal Paste. Do not use Kryonaut! Kryonaut is made for Overclocking in Sub Zero and dries out quickly! use something like Thermalgrizzly Duronaut or Artic MX-7
+
+Thermal Pads 2mm ## thicc
 
 <!-- Caption / description for photo 2 -->
 
