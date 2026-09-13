@@ -52,3 +52,7 @@ You won't need more than this.
 Side note for Linux users. All the blower fans are driven by an **ARCTIC Fan Controller** ([ACFAN00351AB, 10-port with independent per-channel PWM](https://www.arctic.de/en/Fan-Controller/ACFAN00351AB)). Every fan gets its own PWM channel with dedicated power, and the controller is supported by a mainline Linux kernel driver (`arctic_fan_controller`, merged in kernel 7.2 and later), so it shows up as a normal hwmon device with 10 readable RPM and writable PWM channels.
 
 To run a fan curve, use [fan2go](https://github.com/markusressel/fan2go), which reads the GPU temperatures and drives the PWM channels from them. You can also set fan speeds manually through the usual `/sys/class/hwmon/.../pwm*` files.
+
+## Community
+
+For help and discussion with other gfx906 owners, join the gfx906 Discord: https://discord.gg/2dq4wQgJ2m
