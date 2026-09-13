@@ -18,6 +18,10 @@ Repasted the GPU and fitted a 3D-printed shroud by **[@MattRX8](https://github.c
 
 Example: https://a.aliexpress.com/_EHJyd4i
 
+You will also need 3 M2x4 mm Screws per Blower fan. 
+
+
+
 ![20260827_192248](images/20260827_192248.jpg)
 
 ## Thank you
