@@ -34,7 +34,7 @@ Big thanks to **MattRX8** ([github.com/MattRX8](https://github.com/MattRX8)) for
 
 For a visual on how thick the paste should be, see this video: https://www.youtube.com/watch?v=4XM-oXvGK7Y
 
-The same applies to the MI25 and MI60 cards.
+The same should apply to the MI25 and MI60 cards.
 - **Thermal pads, 2 mm thick.**
 
 ## Photo 1: old paste, no thermal pads
