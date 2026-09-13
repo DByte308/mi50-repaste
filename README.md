@@ -4,7 +4,7 @@ Notes on repasting the GPU and swapping the thermal pads on a used MI50 (Vega 20
 
 ## The shroud
 
-Repasted the GPU and fitted a 3D-printed shroud by **@MattRX8** for blower fans. You'll need blower fans for this mod.
+Repasted the GPU and fitted a 3D-printed shroud by **[@MattRX8](https://github.com/MattRX8)** for blower fans. You'll need blower fans for this mod.
 
 **Product:** BASA0725R2U
 
