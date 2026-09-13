@@ -42,3 +42,9 @@ Big thanks to **MattRX8** ([github.com/MattRX8](https://github.com/MattRX8)) for
 You won't need more than this.
 
 ![20260827_200709](images/20260827_200709.jpg)
+
+## Linux fan control
+
+Side note for Linux users. All the blower fans are driven by an **ARCTIC Fan Controller** ([ACFAN00351AB, 10-port with independent per-channel PWM](https://www.arctic.de/en/Fan-Controller/ACFAN00351AB)). Every fan gets its own PWM channel with dedicated power, and the controller is supported by a mainline Linux kernel driver (`arctic_fan_controller`), so it shows up as a normal hwmon device with 10 readable RPM and writable PWM channels.
+
+To run a fan curve, use [fan2go](https://github.com/markusressel/fan2go), which reads the GPU temperatures and drives the PWM channels from them. You can also set fan speeds manually through the usual `/sys/class/hwmon/.../pwm*` files.
