@@ -22,7 +22,7 @@ Example: https://a.aliexpress.com/_EHJyd4i
 
 ## What you'll need
 
-- **Thermal paste.** Don't use Thermal Grizzly Kryonaut — it's made for sub-zero overclocking and dries out quickly. Instead, use something like Thermal Grizzly Duronaut or Arctic MX-7.
+- **Thermal paste.** Don't use Thermal Grizzly Kryonaut, it's made for sub-zero overclocking and dries out quickly. Instead, use something like Thermal Grizzly Duronaut or Arctic MX-7.
 - **Thermal pads, 2 mm thick.**
 
 ## Photo 1: old paste, no thermal pads
