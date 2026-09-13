@@ -33,6 +33,8 @@ Big thanks to **MattRX8** ([github.com/MattRX8](https://github.com/MattRX8)) for
 - **Thermal paste.** Don't use Thermal Grizzly Kryonaut, it's made for sub-zero overclocking and dries out quickly. Use a thick paste like **Arctic MX-7** instead. **Important:** not all cards are flat with the memory, so you need a thick thermal interface. Best is a phase-change pad like **PTM7950** if you can get one, otherwise you can see hotspot temps of about +40 °C above the median.
 
 For a visual on how thick the paste should be, see this video: https://www.youtube.com/watch?v=4XM-oXvGK7Y
+
+The same applies to the MI25 and MI60 cards.
 - **Thermal pads, 2 mm thick.**
 
 ## Photo 1: old paste, no thermal pads
